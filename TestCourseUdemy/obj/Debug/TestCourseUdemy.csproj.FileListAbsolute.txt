@@ -1,0 +1,7 @@
+C:\Users\820\source\repos\TestCourseUdemy\TestCourseUdemy\bin\Debug\TestCourseUdemy.exe.config
+C:\Users\820\source\repos\TestCourseUdemy\TestCourseUdemy\bin\Debug\TestCourseUdemy.exe
+C:\Users\820\source\repos\TestCourseUdemy\TestCourseUdemy\bin\Debug\TestCourseUdemy.pdb
+C:\Users\820\source\repos\TestCourseUdemy\TestCourseUdemy\obj\Debug\TestCourseUdemy.csprojAssemblyReference.cache
+C:\Users\820\source\repos\TestCourseUdemy\TestCourseUdemy\obj\Debug\TestCourseUdemy.csproj.CoreCompileInputs.cache
+C:\Users\820\source\repos\TestCourseUdemy\TestCourseUdemy\obj\Debug\TestCourseUdemy.exe
+C:\Users\820\source\repos\TestCourseUdemy\TestCourseUdemy\obj\Debug\TestCourseUdemy.pdb
